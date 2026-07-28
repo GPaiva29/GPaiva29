@@ -85,7 +85,7 @@ O projeto utiliza autenticação, banco de dados, armazenamento de imagens e uma
 
 **Tecnologias:** React, TypeScript, Vite, Supabase e PostgreSQL.
 
-[Ver repositório](COLOQUE_AQUI_O_LINK_DO_PROJETO)
+[Ver repositório](https://github.com/GPaiva29/nossa-historia)
 
 ---
 
