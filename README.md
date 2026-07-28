@@ -1,18 +1,18 @@
 # Gabriel Paiva
 
-### Desenvolvedor Backend em formação | Assistente de Tecnologia
+### Assistente de Tecnologia | Sustentação N1 | Backend e Banco de Dados
 
-`PHP` `SQL Server` `JavaScript` `APIs REST` `Git` `Docker`
+`PHP` `JavaScript` `SQL Server` `T-SQL` `APIs REST` `Git`
 
-Sou estudante de Análise e Desenvolvimento de Sistemas e atualmente trabalho como **Assistente de Tecnologia na Eletromidia**.
+Sou estudante de **Análise e Desenvolvimento de Sistemas** e atualmente trabalho como **Assistente de Tecnologia na Eletromidia**.
 
 Atuo na **sustentação N1 de projetos legados**, realizando análise e manutenção em código e banco de dados. No dia a dia, apoio correções, validações, consultas SQL, ajustes em sistemas e investigação de problemas nos ambientes de produção e homologação.
 
-Tenho experiência com **PHP, JavaScript, SQL Server, T-SQL, APIs REST e Git**. Também venho desenvolvendo conhecimentos em **Node.js, TypeScript, Docker, Linux e conceitos de DevOps** por meio de estudos e projetos pessoais.
+Tenho experiência prática com **PHP, JavaScript, SQL Server, T-SQL, APIs REST e Git**. Também possuo conhecimentos básicos em **Node.js, TypeScript e Docker**, que venho desenvolvendo por meio de estudos e projetos pessoais.
 
 ---
 
-## O que faço atualmente
+## Atuação atual
 
 - Sustentação N1 de sistemas e projetos legados
 - Análise e manutenção de código
@@ -35,10 +35,11 @@ Tenho experiência com **PHP, JavaScript, SQL Server, T-SQL, APIs REST e Git**. 
 ![REST API](https://img.shields.io/badge/APIs-REST-005571?style=flat-square)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
-- Integrações entre sistemas
 - Manutenção de sistemas legados
-- Regras de negócio
+- Integrações entre sistemas
+- Implementação e validação de regras de negócio
 - Troubleshooting e correção de erros
+- Consumo e manutenção de APIs REST
 
 ### Banco de dados
 
@@ -46,24 +47,26 @@ Tenho experiência com **PHP, JavaScript, SQL Server, T-SQL, APIs REST e Git**. 
 ![T-SQL](https://img.shields.io/badge/T--SQL-CC2927?style=flat-square)
 ![SSMS](https://img.shields.io/badge/SSMS-SQL_Server-CC2927?style=flat-square)
 
-- Consultas e joins
+- Consultas SQL e joins
 - Scripts transacionais
 - Procedures
 - Atualização e validação de dados
 - Análise de erros e inconsistências
+- Apoio em correções e migrações de dados
 
 ### Versionamento e DevOps
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-Iniciante-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-Básico-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-WSL-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 - Branches, merge e rebase
 - Resolução de conflitos
-- Docker e Docker Compose — conhecimentos iniciais
+- Versionamento e organização de alterações
+- Docker e Docker Compose — conhecimento básico
+- Ambientes Linux com WSL
 - Conceitos básicos de CI/CD
-- Ambiente Linux com WSL
 
 ### Frontend e ferramentas
 
@@ -73,15 +76,22 @@ Tenho experiência com **PHP, JavaScript, SQL Server, T-SQL, APIs REST e Git**. 
 ![React](https://img.shields.io/badge/React-Básico-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
 
+- HTML e CSS
+- TypeScript e React — conhecimentos básicos
+- Visual Studio Code
+- SQL Server Management Studio
+- Excel
+- Supabase
+
 ---
 
-## Projetos em destaque
+## Projeto em destaque
 
 ### Nossa História
 
-Aplicação web criada para registrar fotos, datas e memórias em uma linha do tempo.
+Projeto pessoal em desenvolvimento para registrar fotos, datas e memórias em uma linha do tempo.
 
-O projeto utiliza autenticação, banco de dados, armazenamento de imagens e uma interface responsiva.
+A aplicação utiliza autenticação de usuários, banco de dados, armazenamento de imagens e uma interface responsiva para dispositivos móveis e computadores.
 
 **Tecnologias:** React, TypeScript, Vite, Supabase e PostgreSQL.
 
@@ -96,7 +106,7 @@ O projeto utiliza autenticação, banco de dados, armazenamento de imagens e uma
 - Construção e integração de APIs REST
 - Docker e ambientes de desenvolvimento
 - Boas práticas de código
-- Banco de dados e performance de consultas
+- Banco de dados e desempenho de consultas
 - Conceitos de CI/CD
 
 ---
