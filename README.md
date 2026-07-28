@@ -4,21 +4,21 @@
 
 `PHP` `JavaScript` `SQL Server` `T-SQL` `APIs REST` `Git`
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas** e atualmente trabalho como **Assistente de Tecnologia na Eletromidia**.
+Sou estudante de **Análise e Desenvolvimento de Sistemas** e atuo como **Assistente de Tecnologia na Eletromidia**.
 
-Atuo na **sustentação N1 de projetos legados**, realizando análise e manutenção em código e banco de dados. No dia a dia, apoio correções, validações, consultas SQL, ajustes em sistemas e investigação de problemas nos ambientes de produção e homologação.
+Trabalho na **sustentação N1 de projetos legados**, realizando análise e manutenção em código e banco de dados. No dia a dia, apoio correções, validações, consultas SQL, ajustes em sistemas e investigação de problemas nos ambientes de produção e homologação.
 
-Tenho experiência prática com **PHP, JavaScript, SQL Server, T-SQL, APIs REST e Git**. Também possuo conhecimentos básicos em **Node.js, TypeScript e Docker**, que venho desenvolvendo por meio de estudos e projetos pessoais.
+Tenho experiência prática com **PHP, JavaScript, SQL Server, T-SQL, APIs REST e Git**. Também desenvolvo conhecimentos em **Node.js, TypeScript, React, Docker e conceitos de DevOps** por meio de estudos e projetos pessoais.
 
 ---
 
-## Atuação atual
+## Atuação profissional
 
 - Sustentação N1 de sistemas e projetos legados
 - Análise e manutenção de código
 - Consultas, scripts e validações em banco de dados
-- Investigação de problemas em produção e homologação
-- Apoio em correções, testes e validação de regras de negócio
+- Investigação de erros em produção e homologação
+- Correções, testes e validação de regras de negócio
 - Manutenção e integração de APIs REST
 - Gestão de acessos e suporte a sistemas internos
 - Versionamento de código com Git
@@ -37,9 +37,9 @@ Tenho experiência prática com **PHP, JavaScript, SQL Server, T-SQL, APIs REST 
 
 - Manutenção de sistemas legados
 - Integrações entre sistemas
-- Implementação e validação de regras de negócio
-- Troubleshooting e correção de erros
 - Consumo e manutenção de APIs REST
+- Validação de regras de negócio
+- Troubleshooting e correção de erros
 
 ### Banco de dados
 
@@ -63,9 +63,9 @@ Tenho experiência prática com **PHP, JavaScript, SQL Server, T-SQL, APIs REST 
 
 - Branches, merge e rebase
 - Resolução de conflitos
-- Versionamento e organização de alterações
+- Organização e versionamento de alterações
 - Docker e Docker Compose — conhecimento básico
-- Ambientes Linux com WSL
+- Ambiente Linux com WSL
 - Conceitos básicos de CI/CD
 
 ### Frontend e ferramentas
@@ -89,9 +89,16 @@ Tenho experiência prática com **PHP, JavaScript, SQL Server, T-SQL, APIs REST 
 
 ### Nossa História
 
-Projeto pessoal em desenvolvimento para registrar fotos, datas e memórias em uma linha do tempo.
+Aplicação web responsiva desenvolvida para registrar e organizar fotos, datas e memórias em uma linha do tempo.
 
-A aplicação utiliza autenticação de usuários, banco de dados, armazenamento de imagens e uma interface responsiva para dispositivos móveis e computadores.
+**Principais funcionalidades:**
+
+- Autenticação de usuários
+- Cadastro de memórias com foto e data
+- Organização dos registros em uma linha do tempo
+- Armazenamento de imagens
+- Integração com banco de dados
+- Interface responsiva para celulares e computadores
 
 **Tecnologias:** React, TypeScript, Vite, Supabase e PostgreSQL.
 
@@ -99,15 +106,14 @@ A aplicação utiliza autenticação de usuários, banco de dados, armazenamento
 
 ---
 
-## Atualmente estudando
+## Conhecimentos em desenvolvimento
 
-- Desenvolvimento Backend
 - Node.js e TypeScript
-- Construção e integração de APIs REST
-- Docker e ambientes de desenvolvimento
-- Boas práticas de código
+- Desenvolvimento e integração de APIs REST
+- Docker e Docker Compose
+- Boas práticas de desenvolvimento Backend
 - Banco de dados e desempenho de consultas
-- Conceitos de CI/CD
+- Conceitos básicos de CI/CD
 
 ---
 
@@ -121,5 +127,3 @@ Universidade Paulista — UNIP
 ## Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Gabriel_Paiva-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-paiva-de-moraes-48a161233/)
-
-[![GitHub](https://img.shields.io/badge/GitHub-GPaiva29-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GPaiva29)
